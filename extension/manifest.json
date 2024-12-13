@@ -1,0 +1,10 @@
+{
+    "name": "Twemoji for Scratch",
+    "description": "Brings over Twemoji to Scratch",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "settings.html",
+      "default_icon": "scratchtwemojiicon.png"
+    }
+  }
